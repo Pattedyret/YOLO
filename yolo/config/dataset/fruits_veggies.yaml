@@ -1,0 +1,12 @@
+path: data/fruits_veggies
+train: train
+validation: val
+
+# Number of classes in your dataset
+class_num: 89
+
+# List of class names (in alphabetical order)
+class_list: ['almondmilk', 'almondmilk_barista', 'almondmilk_sugarfree', 'asparagus', 'assorted_vegetables', 'bamboo_shoots', 'bavette', 'black_beans', 'butter', 'butter_liquid', 'butter_plantbased', 'butter_unsalted', 'car', 'cat', 'cavity', 'cheese', 'cherry_tomatoes', 'chicken_breast', 'chicken_noodle_soup', 'chickpeas', 'chopped_tomato', 'chopped_tomatoes', 'chopped_tomatoes_basil', 'coffee_cream', 'corn', 'cornstarch', 'couscous', 'cream_plantbased', 'creme_fraiche', 'creme_fraiche_lactosefree', 'd', 'dried_peas', 'dried_yellow_peas', 'dog', 'eggs', 'farfalle', 'french_onion_soup', 'fusilli', 'fusilli_whole_grain', 'fusilloni', 'gnocchi', 'grated_cheese', 'grana_padano', 'hamburger', 'heavy_cream', 'heavy_cream_lactosefree', 'ketchup', 'kidney_beans', 'lasagne', 'lentils', 'light_cream', 'light_cream_lactosefree', 'light_sour_cream', 'light_sour_cream_lactosefree', 'linguine', 'macaroni', 'macaroni_whole_grain', 'margarine', 'margarine_liquid', 'marinara_sauce', 'meatballs', 'milk', 'milk_lactosefree', 'mixed_beans', 'mozzarella', 'mushroom', 'oat_milk', 'pasta_sauce_arrabiata', 'pasta_sauce_basil', 'penne', 'penne_rigate', 'penne_whole_grain', 'person', 'pesto', 'pesto_red', 'pinto_beans', 'pulled_pork', 'rapeseed_olive_oil', 'ribs', 'rice', 'risotto_rice', 'sauce_al_forno_creamy_tomato', 'sauce_lasagne_creamy', 'sauce_pizza', 'sauce_pizza_aromatica', 'sauce_pizza_basil_oregano', 'sauce_sweet_and_sour', 'sauce_sweet_and_sour_spicy', 'shortening', 'skimmed_milk', 'sun_dried_tomatoes', 'sunflower_oil', 'tagliatelle', 'tomato_and_beans', 'tomato_puree', 'tomato_soup', 'tv', 'wheat_flour', 'white_beans', 'whole_milk', 'whole_milk_lactosefree', 'wok_mix_vegetables']
+
+
+

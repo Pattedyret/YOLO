@@ -1,0 +1,14 @@
+path: data/helicopter
+train: train
+validation: val
+
+# Number of classes (focusing on helipad surveillance)
+class_num: 4
+
+# List of class names (prioritized for helipad surveillance)
+class_list: [
+    'helicopter',     # Main target for detection
+    'person',        # Important for safety monitoring around the helipad
+    'animal',        # For wildlife detection (deer, birds, etc.)
+    'other'          # Catch-all for unexpected objects (including medical carts)
+] 
